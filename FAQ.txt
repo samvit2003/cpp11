@@ -1,0 +1,7 @@
+#Please add your questions here in the following format:
+#         Q [Name of the questioner] Question Body ?
+#
+#
+# For example:
+# Q [Samvit] What is a type constructor ?
+# Q [Samvit] What doesn't the abstract machine for C++ have a view of the machine registers?
