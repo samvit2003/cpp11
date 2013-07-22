@@ -5,3 +5,5 @@
 # For example:
 # Q [Samvit] What is a type constructor ?
 # Q [Samvit] What doesn't the abstract machine for C++ have a view of the machine registers?
+
+Q [Krishnaih] Can I declare a static variable inside a struct/class as private? What is the possible use case for such an idiom?
